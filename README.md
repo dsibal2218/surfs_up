@@ -27,6 +27,12 @@
 
 <img width="831" alt="Screen Shot 2022-04-24 at 3 49 08 PM" src="https://user-images.githubusercontent.com/98235755/164993951-41f618c5-2bc6-42a6-8f7e-0ba08431c342.png">
 
+5. Additional analysis of precipitation in June and December were done. 
+
+<img width="318" alt="Screen Shot 2022-04-24 at 4 23 04 PM" src="https://user-images.githubusercontent.com/98235755/164995087-990b5abc-e544-431b-8219-9726d43b5c61.png">
+
+
+<img width="396" alt="Screen Shot 2022-04-24 at 4 23 50 PM" src="https://user-images.githubusercontent.com/98235755/164995106-a3e4d1d6-2062-4a3a-a2f9-840acf851abe.png">
 
 
 
@@ -34,10 +40,9 @@
 
 1. Note that the data has more June recorded temperature than December because the dataset only goes up to 08/2017, hence missing not having any December 2017 data. Despite that, in my opinion given there were atleast 6 years of data, the summary and conclusions provided below still is a good representation of the analysis results.
 
-2. Based on the statistical summary , June has a warmer average temperature of 74.94 vs. December's average of 71.04
+2. Based on the statistical summary , June has a warmer average temperature of 74.94 vs. December's average of 71.04. Additionally, June's min-max temperatures are 64-85 than December's 56-83. 
 
-2. Additionally, June is a hotter month with min-max temperatures of 64-85 than December's 56-83. 
-
-3.
+3. Additional analyses of Oahu's June and December precipitation data showed some interetsting finding. The graphs shows that it rained more in the months of June than December. However, the amount of rain (when it rained) were higher in the month of December (ave. of .216) than June's .136). Relatively, the min-max precipitation for Dec was .00-6.42 and June's was .00-4.43. I believe that this is due to lower denominator (ie days it rained) in the month of December that the ave precipitation measurement becomes higher - "when it rains, it pours" as they say seems to be a perfect definition of the December month data.
 
 Summary:
+Overall, I think it is still worth investing in the surf and icecream shop in Oahu. I would recommend also offering some hot drinks for months that were a bit chilly. 
